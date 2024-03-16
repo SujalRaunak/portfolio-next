@@ -19,7 +19,7 @@ Welcome to my personal portfolio website! This website showcases my wonderful pr
 
 ## Live Demo:
 
-Explore the live demo of my personal portfolio website [here](https://portfolio-next-rho-sandy.vercel.app/).
+Explore the live demo of my personal portfolio website [here](https://sujalraunak.vercel.app/).
 
 ## Technologies Used:
 
