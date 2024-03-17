@@ -100,7 +100,7 @@ const Navbar = () => {
         <Link href="https://medium.com/@sujalraunak452">
           <Image src="/medium.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="https://www.linkedin.com/in/sujal-raunak-30aug/">
+        <Link href="https://www.linkedin.com/in/sujal-raunak-30jan/">
           <Image src="/linkedin.png" alt="" width={24} height={24} />
         </Link>
       </div>
